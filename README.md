@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Anand Shukla i.e. @And4Web
 - 👀 I’m interested in learning and working in Web Development industry. Currently I'm learning Full stack developement using MERN stack...
-- 🌱 I’m currently learning Back End Developement using Node.Js and Express.Js...
-- 💞
+- 🌱 I'm proficient at Back End Developement using Node.Js and Express.Js, while at front end development using React.Js, Bootstrap5, SASS etc..
 - 📫 How to reach me:-> my Email: anands2807@gmail.com
 
 <!---
