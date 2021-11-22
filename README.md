@@ -1,4 +1,4 @@
-# Hello, This is **Ananad Shukla**
+# Hello, This is **Anand Shukla**
 
 ---
 
