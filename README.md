@@ -6,7 +6,7 @@
 
 ---
 
-## I am good at -
+## I use the following Concepts, Tools and Technologies -
 
 ### (1) Computer Science and Programming Fundamentals -
 
