@@ -6,7 +6,7 @@
 
 ---
 
-## My Tech Stack is -
+## I am good at -
 
 ### (1) Computer Science and Programming Fundamentals -
 
