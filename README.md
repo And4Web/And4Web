@@ -19,7 +19,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-I currently work as a Web Developer, so Javascript is the language I use the most for any kind of developement, whether it is web or mobile or desktop development. 
+I currently work as a Web Developer, so Javascript is the language I use the most for developement, whether it is web or mobile or desktop development. 
 
 ### (2) Web Development Fundamentals -
 
