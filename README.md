@@ -2,7 +2,7 @@
 
 ---
 
-## I am a <ins>Full Stack Developer</ins>
+## I am a **<ins>Full Stack Developer</ins>**
 
 
 ---
