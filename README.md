@@ -8,7 +8,7 @@
 
 ## I use the following Concepts, Tools and Technologies -
 
-### (1) Computer Science and Programming Fundamentals -
+### (1) <ins>Computer Science and Programming Fundamentals</ins> -
 
 - Data Structures and Algorithms
 - Database Management Systems
