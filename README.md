@@ -1,8 +1,9 @@
-# Hello, This is **<ins>Anand Shukla</ins>**
+# Hello, This is <span style="margin: 10px; color:gray;  background-color:black; border-radius:2px; padding:4px 16px; font-size:30px; font-weight:bold">Anand Shukla</span>
 
 ---
 
-## I am a <ins>Full Stack Developer</ins>
+## I am a <span style="margin: 10px; color:gray;  background-color:black; border-radius:2px; padding:4px 16px; font-size:30px; font-weight:bold">Full Stack Developer</span>
+
 
 ---
 
