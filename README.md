@@ -7,7 +7,7 @@
 
 ---
 
-## I use the following Concepts, Tools and Technologies -
+# SKILLS -
 
 ### (1) <ins>Computer Science and Programming Fundamentals</ins> -
 
