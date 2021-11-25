@@ -2,12 +2,12 @@
 
 ---
 
-## **<ins>Full Stack Developer</ins>**
+## **Full Stack Developer**
 
 
 ---
 
-# SKILLS -
+# <ins>SKILLS</ins> -
 
 ### (1) <ins>Computer Science and Programming Fundamentals</ins> -
 
