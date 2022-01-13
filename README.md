@@ -4,7 +4,7 @@
 
 <!--### **Full Stack Developer**-->
 
-## **Front End - React.JS Developer**
+## **FrontEnd/Mobile Developer(ReactJS/React-Native)**
 
 
 ---
