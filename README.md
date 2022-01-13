@@ -103,5 +103,6 @@ I currently work as a Web Developer, so Javascript is the language I use the mos
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
-### (13) <ins>Education</ins> -
+---
+### <ins>Education</ins> -
 ### B.Tech(Electronic and Communication Engineering)
