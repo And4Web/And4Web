@@ -16,7 +16,7 @@
 - Data Structures and Algorithms
 - Database Management Systems
 - Computer Architecture and Organisation 
-
+-->
 
 ### (1) <ins>Programming Languages, I'm familiar with</ins> -
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
