@@ -16,13 +16,7 @@
 - Data Structures and Algorithms
 - Database Management Systems
 - Computer Architecture and Organisation 
-- **Programming Languages, I'm familiar with** -
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-I currently work as a Web Developer, so Javascript is the language I use the most for developement, whether it is web or mobile or desktop development. -->
 
 ### (1) <ins>Programming Languages, I'm familiar with</ins> -
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
