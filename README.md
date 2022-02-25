@@ -78,6 +78,7 @@ I currently use **<ins>Javascript</ins>** for development most of the time, whet
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<!--
 ### (10) <ins>Browsers</ins> -
 
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
@@ -97,6 +98,7 @@ I currently use **<ins>Javascript</ins>** for development most of the time, whet
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
+-->
 ---
 ## <ins>Education</ins> -
 ### B.Tech(Electronic and Communication Engineering)
