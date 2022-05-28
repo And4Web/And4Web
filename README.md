@@ -2,9 +2,9 @@
 
 ---
 
-<!--### **Full Stack Developer**-->
+## **Full Stack Developer**
 
-## **FrontEnd/Mobile Developer(ReactJS/React-Native)**
+<!-- ## **FrontEnd/Mobile Developer(ReactJS/React-Native)** -->
 
 
 ---
