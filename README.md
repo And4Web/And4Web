@@ -1,8 +1,10 @@
-# Hello, This is **<ins>Anand Shukla</ins>**
+<!-- # Hello, This is **<ins>Anand Shukla</ins>** -->
+# **<ins>Full Stack Developer</ins>**
 
 ---
 
-## **Full Stack Developer (React.Js | Next.Js | Node.Js)**
+<!-- ## **Full Stack Developer (React.Js | Next.Js | Node.Js)** -->
+## **Javascript | Python | React.Js | Next.Js | Node.Js | Django | MongoDB | SQL**
 
 <!-- ## **FrontEnd/Mobile Developer(ReactJS/React-Native)** -->
 
