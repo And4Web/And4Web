@@ -4,7 +4,7 @@
 ---
 
 <!-- ## **Full Stack Developer (React.Js | Next.Js | Node.Js)** -->
-## **Javascript | Python | React.Js | Next.Js | Node.Js | Django | MongoDB | SQL**
+## **Javascript | Python | React.Js | Next.Js | React Native | Node.Js | Django | MongoDB | SQL**
 
 <!-- ## **FrontEnd/Mobile Developer(ReactJS/React-Native)** -->
 
